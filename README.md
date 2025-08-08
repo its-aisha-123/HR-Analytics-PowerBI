@@ -58,7 +58,7 @@ This repository contains a Power BI dashboard developed as part of the **HR Anal
 
 ## Author
 **Aisha Munawar**  
-[LinkedIn]:linkedin.com/in/aisha-munawar-b499241a | [Email](aishamunawar1212@gmail.com)
+[LinkedIn]:linkedin.com/in/aisha-munawar-b499241a | [Email] (aishamunawar1212@gmail.com)
 
 ## Tags
 #powerbi #data-visualization #hr-analytics #business-intelligence #data-analysis #dashboard #datacamp #employee-attrition #human-resources #data-storytelling
