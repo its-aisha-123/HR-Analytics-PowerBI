@@ -40,7 +40,7 @@ This repository contains a Power BI dashboard developed as part of the **HR Anal
 - **White and Native Hawaiian** employees have the highest average salary, while those identifying as **Mixed or Multiple Ethnic** groups have the lowest.
 - There is equal representation of male and female employees, with the presence of **non-binary** employees as well, reflecting a gender-diverse workforce.
 - Employees who **work overtime** and **frequently travel** are more likely to leave, indicating a link between workload, travel frequency, and attrition.
-- 
+  
 ## How to View the Dashboard
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 2. Clone or download this repository.
