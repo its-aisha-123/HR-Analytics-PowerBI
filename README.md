@@ -27,8 +27,8 @@ This repository contains a Power BI dashboard developed as part of the **HR Anal
 - **Department-wise Overview** – Salary, experience, and turnover rates.
 
 ## Dashboard Preview
-- ![HR Analytics Dashboard] (<img width="1307" height="728" alt="Dashboard_Attrition_Screenshot" src="https://github.com/user-attachments/assets/9a567082-9f0c-42f5-a597-c751d3acd7c0" />
-)
+- ![HR Analytics Dashboard] <img width="1302" height="716" alt="Dashboard_Overview_Screenshot" src="https://github.com/user-attachments/assets/d1d04fd4-2bca-4eef-908a-a0413dcb1eb5" />
+
 
 *More visuals are available in the `Dashboard_Screenshots/` folder.*
 
