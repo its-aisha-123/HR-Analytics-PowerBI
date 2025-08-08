@@ -2,8 +2,7 @@
 This repository contains a Power BI dashboard developed as part of the **HR Analytics Case Study**. The project explores employee data to uncover insights related to attrition, performance, demographics, and more to assist HR teams in making data-driven decisions.
 
 ## Repository Structure
- - HR_Analytics_Dashboard.pbix # Power BI report file
- - Sample_Dataset.csv # Dataset 
+ - HR_Analytics_Dashboard.pbix # Power BI report file 
  - README.md # Project documentation
  - Dashboard_Screenshots/ # Images of the final dashboard visuals
 
